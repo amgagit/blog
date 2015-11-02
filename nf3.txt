@@ -1,0 +1,2 @@
+nf3 is created
+in dir /grit/blog
