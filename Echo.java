@@ -10,4 +10,9 @@ public class Echo {
 
         System.out.println(rlt);
     }
+    public static doNothing() {
+        // bug is fixed
+    }
+
+
 }
